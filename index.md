@@ -10,7 +10,7 @@ humandate: "31 August - 4 September, 2020"    # human-readable dates for the wor
 humantime: "8:30 am - 13:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-08-31      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-09-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Benson Muite", "Jannetta Steyn", "Varshita Sher", "Samuel Lelièvre"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Benson Muite", "Jannetta Steyn", "Varshita Sher", "Samuel Lelièvre", "Lactatia Motsuku"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Margaret Brisbin", "Marissa Griesel"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["angelique@carpentries.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-08-31-SA-ONLINE   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
